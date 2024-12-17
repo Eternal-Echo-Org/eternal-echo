@@ -7,7 +7,7 @@ Preserving the unique voice of every individual through advanced AI, creating la
 ## About The Project
 Eternal Echo is an open-source initiative that helps preserve the essence of terminally ill individuals through AI technology, allowing future generations to know their family members through meaningful interaction. This project combines advanced language models, personality mapping, and ethical AI practices to create respectful and authentic digital preservation of personal legacies.
 
-Furthermore, it is of utmost importance that this use case for generative AI is not commercialized. Opensource and nonprofit is the only way. 
+It is of utmost importance that this use case for generative AI is not commercialized. Opensource and nonprofit is the only way. 
 
 ## Core Features
 - Comprehensive personality capture through structured interviews
