@@ -1,0 +1,160 @@
+{
+  "terminal_illness_questions": {
+    "present_experience_and_coping": {
+      "living_with_illness": {
+        "category_description": "Current experiences and adaptations",
+        "questions": [
+          "How has your perception of time changed since your diagnosis?",
+          "What moments in your day bring you the most peace or comfort now?",
+          "What do you wish others understood about your experience?",
+          "How has your relationship with your body evolved through this journey?"
+        ]
+      },
+      "finding_meaning": {
+        "category_description": "Personal meaning and significance",
+        "questions": [
+          "What aspects of life have taken on new significance for you?",
+          "How has your understanding of what matters most changed?",
+          "Where do you find sources of joy or meaning in your current experience?",
+          "What gives you strength on difficult days?"
+        ]
+      },
+      "relationships_in_the_present": {
+        "category_description": "Current relationship dynamics",
+        "questions": [
+          "How has your illness affected your connections with others?",
+          "What conversations have become most precious to you?",
+          "What do you want your loved ones to know about how to support you?",
+          "How has your capacity for receiving care and help evolved?"
+        ]
+      }
+    },
+    "legacy_and_future_impact": {
+      "wisdom_to_share": {
+        "category_description": "Life lessons and guidance",
+        "questions": [
+          "What life lessons feel most important to pass on now?",
+          "What advice would you give to others about living fully?",
+          "What insights about life have become clearer to you?",
+          "What would you want others to learn from your journey?"
+        ]
+      },
+      "messages_for_loved_ones": {
+        "category_description": "Personal messages and hopes",
+        "questions": [
+          "What stories or memories do you most want preserved?",
+          "What hopes do you hold for your loved ones' futures?",
+          "What family traditions or values feel most important to pass on?",
+          "What would you want people to remember about who you are?"
+        ]
+      },
+      "unfinished_business": {
+        "category_description": "Completion and resolution",
+        "questions": [
+          "What conversations or connections feel most important to complete?",
+          "What would bring you a sense of completion or peace?",
+          "What practical matters would you like to address or resolve?",
+          "What hopes or dreams for others would you like to express?"
+        ]
+      }
+    },
+    "life_review_and_reflection": {
+      "life_story": {
+        "category_description": "Personal history and memories",
+        "questions": [
+          "Which chapters of your life feel most significant to share now?",
+          "What parts of your story have taken on new meaning?",
+          "What moments make you smile when you remember them?",
+          "What achievements or contributions bring you satisfaction?"
+        ]
+      },
+      "character_and_identity": {
+        "category_description": "Self-perception and growth",
+        "questions": [
+          "How has illness affected your sense of who you are?",
+          "What core aspects of yourself have remained constant?",
+          "What strengths have you discovered in yourself?",
+          "How would you describe your journey of personal growth?"
+        ]
+      },
+      "philosophical_perspectives": {
+        "category_description": "Personal philosophy and meaning",
+        "questions": [
+          "How has your understanding of life's meaning evolved?",
+          "What beliefs or values have been challenged or confirmed?",
+          "What gives you comfort when thinking about mortality?",
+          "What spiritual or philosophical insights have emerged for you?"
+        ]
+      }
+    },
+    "daily_life_and_practical_matters": {
+      "current_priorities": {
+        "category_description": "Current focus and needs",
+        "questions": [
+          "What activities or experiences feel most important now?",
+          "How do you prefer to spend your energy and time?",
+          "What helps you feel most like yourself these days?",
+          "What practical support makes the biggest difference?"
+        ]
+      },
+      "communication_preferences": {
+        "category_description": "Communication needs and boundaries",
+        "questions": [
+          "How do you prefer others talk with you about your illness?",
+          "What topics energize rather than drain you?",
+          "How can others best respect your boundaries while staying connected?",
+          "What kinds of conversations bring you comfort?"
+        ]
+      },
+      "quality_of_life": {
+        "category_description": "Daily well-being and routine",
+        "questions": [
+          "What makes a 'good day' for you now?",
+          "What comforts or pleasures remain important?",
+          "What adaptations have helped you maintain independence?",
+          "What routines or rituals bring structure or meaning to your days?"
+        ]
+      }
+    },
+    "medical_experience": {
+      "healthcare_journey": {
+        "category_description": "Medical care and advocacy",
+        "questions": [
+          "How do you prefer to make decisions about your care?",
+          "What helps you feel most empowered in medical settings?",
+          "What have you learned about advocating for yourself?",
+          "What would you want healthcare providers to understand about you as a person?"
+        ]
+      },
+      "symptom_experience": {
+        "category_description": "Symptom management and comfort",
+        "questions": [
+          "How do you cope with difficult physical symptoms?",
+          "What strategies help you maintain emotional well-being?",
+          "What helps you feel most comfortable or at peace?",
+          "What sensory experiences bring you comfort or relief?"
+        ]
+      }
+    },
+    "additional_context": {
+      "support_system": {
+        "category_description": "Support network and relationships",
+        "questions": [
+          "Who makes up your circle of support?",
+          "How has your understanding of friendship evolved?",
+          "What kinds of support have been most meaningful?",
+          "What would you want others to know about supporting someone through illness?"
+        ]
+      },
+      "creating_meaning": {
+        "category_description": "Finding purpose and beauty",
+        "questions": [
+          "How do you find moments of joy or beauty in current circumstances?",
+          "What creative expressions feel meaningful now?",
+          "How do you maintain connection to what matters most?",
+          "What gives you a sense of purpose day to day?"
+        ]
+      }
+    }
+  }
+}
