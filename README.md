@@ -7,6 +7,8 @@ Preserving the unique voice of every individual through advanced AI, creating la
 ## About The Project
 Eternal Echo is an open-source initiative that helps preserve the essence of terminally ill individuals through AI technology, allowing future generations to know their family members through meaningful interaction. This project combines advanced language models, personality mapping, and ethical AI practices to create respectful and authentic digital preservation of personal legacies.
 
+Furthermore, it is of utmost importance that this use case for generative AI is not commercialized. Opensource and nonprofit is the only way. 
+
 ## Core Features
 - Comprehensive personality capture through structured interviews
 - Secure data collection and storage system
@@ -102,17 +104,12 @@ We welcome contributions from developers, researchers, and anyone passionate abo
 This project is licensed under the [Apache 2.0 License](LICENSE) - see the LICENSE file for details.
 
 ## Contact
-Project Lead: [Your Name]
-Email: contact@eternal-echo.org
+Project Lead: Jack Thompson
+Email: eternalechoorg@gmail.com
 Website: https://eternal-echo.org
 
-## Acknowledgments
-- Families who have trusted us with their stories
-- Open source AI community
-- Ethics advisory board
-- Medical professionals
-- Grief counselors and therapists
-- Contributing developers
+## My Motivation
+My mother has recently been diagnosed with metastatic pancreatic cancer which has spread to her spine and beyond. I'd like to ensure that one day my children can know their grandma and my mother wishes she could have done more to gather information about my grandparents. Sharon (my mother) has agreed to go through a list of approx. 100 questions and allow me to build an LLM. This will grow into the Sharon Moritz Foundation making this generative AI use case available to anyone in a similar situation. 
 
 ---
 
