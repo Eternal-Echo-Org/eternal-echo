@@ -1,0 +1,139 @@
+{
+  "personal_history_questions": {
+    "foundational_life_experiences": {
+      "category_description": "Core memories and life-shaping events",
+      "questions": [
+        "What are your earliest childhood memories, and why do you think these specific moments stayed with you?",
+        "Which life events would you consider turning points that significantly shaped who you are today?",
+        "How would you describe your relationship with each family member during different phases of your life?",
+        "What were the most challenging periods in your life, and how did they change you?"
+      ]
+    },
+    "values_and_beliefs_development": {
+      "category_description": "Evolution of personal values and beliefs",
+      "questions": [
+        "How have your core values evolved throughout your life?",
+        "What beliefs did you inherit from your family, and which ones did you consciously choose to keep or discard?",
+        "What experiences challenged your belief system, and how did you respond?",
+        "How do you reconcile conflicting values or beliefs in your life?"
+      ]
+    },
+    "decision_making_and_problem_solving": {
+      "category_description": "Approaches to decisions and challenges",
+      "questions": [
+        "Describe a major life decision you made. What factors influenced your choice?",
+        "How do you typically approach difficult decisions?",
+        "What's your process for solving complex problems?",
+        "What role do emotions play in your decision-making process?"
+      ]
+    },
+    "emotional_patterns_and_responses": {
+      "category_description": "Emotional processing and regulation",
+      "questions": [
+        "What situations typically trigger strong emotional responses from you?",
+        "How do you prefer to process and express different emotions?",
+        "What are your coping mechanisms for stress and adversity?",
+        "How has your emotional regulation evolved over time?"
+      ]
+    },
+    "relationships_and_social_dynamics": {
+      "category_description": "Interpersonal patterns and values",
+      "questions": [
+        "How do you typically form and maintain relationships?",
+        "What patterns have you noticed in your close relationships?",
+        "How do you handle conflict in different types of relationships?",
+        "What qualities do you value most in others?"
+      ]
+    },
+    "personal_growth_and_learning": {
+      "category_description": "Development and life lessons",
+      "questions": [
+        "What are your most significant life lessons?",
+        "How do you prefer to learn new things?",
+        "What mistakes have taught you the most?",
+        "How has your worldview changed over time?"
+      ]
+    },
+    "daily_life_and_habits": {
+      "category_description": "Daily routines and preferences",
+      "questions": [
+        "What does your ideal day look like?",
+        "Which habits have you consciously developed or broken?",
+        "How do you structure your time and prioritize activities?",
+        "What small details in life bring you joy or frustration?"
+      ]
+    },
+    "creative_expression_and_interests": {
+      "category_description": "Creative pursuits and passions",
+      "questions": [
+        "How do you express your creativity?",
+        "What topics consistently capture your interest and why?",
+        "What artistic or cultural works have deeply resonated with you?",
+        "How have your interests evolved over time?"
+      ]
+    },
+    "professional_and_achievement_orientation": {
+      "category_description": "Career goals and success metrics",
+      "questions": [
+        "What drives your professional or personal goals?",
+        "How do you define success for yourself?",
+        "What achievements are you most proud of and why?",
+        "How do you handle setbacks and failures?"
+      ]
+    },
+    "philosophy_and_worldview": {
+      "category_description": "Personal philosophy and beliefs",
+      "questions": [
+        "What are your views on fundamental life questions (meaning, purpose, mortality)?",
+        "How do you make sense of randomness and uncertainty in life?",
+        "What role does spirituality or religion play in your life?",
+        "How do you think about your place in the larger world?"
+      ]
+    },
+    "communication_style": {
+      "category_description": "Communication preferences and patterns",
+      "questions": [
+        "How do you prefer to express yourself in different contexts?",
+        "What communication patterns have others pointed out about you?",
+        "How do you adapt your communication style for different audiences?",
+        "What aspects of communication do you find challenging?"
+      ]
+    },
+    "cultural_background": {
+      "category_description": "Cultural identity and influences",
+      "questions": [
+        "How has your cultural background influenced your identity?",
+        "What cultural traditions or values do you maintain or reject?",
+        "How do you navigate multiple cultural identities (if applicable)?",
+        "What cultural experiences have shaped your perspective?"
+      ]
+    },
+    "memory_and_association": {
+      "category_description": "Memory patterns and preservation",
+      "questions": [
+        "What sensory experiences trigger strong memories for you?",
+        "How do you tend to remember important information?",
+        "What patterns do you notice in your memory formation?",
+        "Which memories do you actively try to preserve?"
+      ]
+    },
+    "behavioral_responses": {
+      "category_description": "Behavioral patterns and reactions",
+      "questions": [
+        "How do you typically react under pressure?",
+        "What situations make you feel most comfortable/uncomfortable?",
+        "What are your default responses to common scenarios?",
+        "How do your behaviors change in different environments?"
+      ]
+    },
+    "meta_questions": {
+      "category_description": "Self-awareness and perception",
+      "questions": [
+        "How accurately do you think you can describe yourself?",
+        "What aspects of your personality do others often misunderstand?",
+        "How has your self-perception changed over time?",
+        "What contradictions do you notice in your own personality?"
+      ]
+    }
+  }
+}
