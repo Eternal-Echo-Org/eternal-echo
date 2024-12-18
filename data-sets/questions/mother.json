@@ -1,0 +1,160 @@
+{
+  "mothers_legacy_questions": {
+    "maternal_legacy_and_family_history": {
+      "life_as_a_mother": {
+        "category_description": "Personal journey through motherhood",
+        "questions": [
+          "What moments in your journey as a mother stand out as most precious?",
+          "How has being a mother shaped who you are as a person?",
+          "What surprised you most about motherhood?",
+          "What dreams and hopes have you held for your children through different stages?"
+        ]
+      },
+      "family_stories_and_traditions": {
+        "category_description": "Family heritage and customs",
+        "questions": [
+          "What family stories or traditions do you most want your children to carry forward?",
+          "What recipes, customs, or celebrations hold special meaning that you'd like preserved?",
+          "What family history would you want your children and grandchildren to know?",
+          "What wisdom from your own mother or grandmothers would you want passed down?"
+        ]
+      },
+      "messages_for_children": {
+        "category_description": "Personal messages to children",
+        "questions": [
+          "What do you want each of your children to know about how you see them?",
+          "What strengths have you noticed in each of your children that they might not see in themselves?",
+          "What would you want them to remember about your love for them when they face their own challenges?",
+          "What hopes do you hold for each child's future?"
+        ]
+      }
+    },
+    "present_experience_as_mother": {
+      "current_relationships": {
+        "category_description": "Current maternal role and relationships",
+        "questions": [
+          "How has your illness affected your role as a mother?",
+          "What new dimensions of your relationship with your children have emerged?",
+          "What aspects of mothering remain most important to you now?",
+          "How do you balance protecting your children with being honest about your experience?"
+        ]
+      },
+      "family_dynamics": {
+        "category_description": "Family adaptation and support",
+        "questions": [
+          "How has your family adapted to changes in your health?",
+          "What makes you proud about how your family has faced this challenge?",
+          "What concerns do you hold about your family's adjustment?",
+          "How do you hope your family will support each other?"
+        ]
+      },
+      "practical_family_matters": {
+        "category_description": "Practical guidance and knowledge",
+        "questions": [
+          "What family knowledge or information would you want to ensure is shared?",
+          "What guidance would you want to offer about family relationships or dynamics?",
+          "What practical skills or knowledge about your children's needs feel important to pass on?",
+          "What family traditions or routines would you want maintained?"
+        ]
+      }
+    },
+    "motherhood_and_identity": {
+      "evolution_as_mother": {
+        "category_description": "Personal growth through motherhood",
+        "questions": [
+          "How has your understanding of motherhood changed over time?",
+          "What challenges in motherhood taught you the most?",
+          "What aspects of being a mother brought you the most joy?",
+          "How has being a mother influenced your approach to illness?"
+        ]
+      },
+      "values_and_lessons": {
+        "category_description": "Core values and life lessons",
+        "questions": [
+          "What core values would you want your children to remember you lived by?",
+          "What life lessons would you want your children to learn from your example?",
+          "What mistakes or challenges would you want your children to learn from?",
+          "What perspectives on life would you want to pass on?"
+        ]
+      },
+      "mother_child_bonds": {
+        "category_description": "Individual relationships with children",
+        "questions": [
+          "What qualities in each of your children remind you of yourself?",
+          "What unique bonds or special memories do you share with each child?",
+          "What do you admire most about each of your children?",
+          "What shared experiences bring you the most joy to remember?"
+        ]
+      }
+    },
+    "future_guidance": {
+      "support_for_children": {
+        "category_description": "Guidance for children's future",
+        "questions": [
+          "What would you want your children to know about caring for themselves?",
+          "What advice would you offer them about love, relationships, and family?",
+          "What would you want them to remember during their own life challenges?",
+          "What sources of strength would you want them to draw upon?"
+        ]
+      },
+      "family_future": {
+        "category_description": "Vision for family's future",
+        "questions": [
+          "What dreams do you hold for your family's future together?",
+          "What would you want your children to know about supporting each other?",
+          "How would you hope your family celebrates milestones and remembers you?",
+          "What wisdom about family relationships would you want preserved?"
+        ]
+      },
+      "life_milestones": {
+        "category_description": "Guidance for future life events",
+        "questions": [
+          "What would you want your children to know as they experience major life events?",
+          "What advice would you offer about parenthood to your children?",
+          "What would you want them to remember about you during their own parenting journey?",
+          "What messages would you want saved for future grandchildren?"
+        ]
+      }
+    },
+    "daily_life_and_family_connection": {
+      "quality_time": {
+        "category_description": "Present moments and connection",
+        "questions": [
+          "What kinds of moments with your children are most precious now?",
+          "How do you want to spend time with family during this period?",
+          "What daily interactions bring you the most joy?",
+          "What family rituals or routines have taken on new meaning?"
+        ]
+      },
+      "communication": {
+        "category_description": "Family communication",
+        "questions": [
+          "How do you want to talk with your children about difficult topics?",
+          "What conversations would you like to have with each child?",
+          "What stories or memories would you like to share?",
+          "How do you balance honesty with protecting your children's feelings?"
+        ]
+      }
+    },
+    "additional_family_dimensions": {
+      "extended_family": {
+        "category_description": "Extended family connections",
+        "questions": [
+          "What would you want your children to know about their extended family?",
+          "What family relationships would you hope they maintain or develop?",
+          "What family history or stories feel important to preserve?",
+          "What guidance would you offer about managing family relationships?"
+        ]
+      },
+      "creating_lasting_connections": {
+        "category_description": "Legacy and memory preservation",
+        "questions": [
+          "What objects or mementos hold special meaning you'd want to share about?",
+          "What letters, recordings, or messages would you want to leave for future moments?",
+          "What traditions or practices would help your family maintain connection?",
+          "What aspects of your relationship with each child would you want honored?"
+        ]
+      }
+    }
+  }
+}
